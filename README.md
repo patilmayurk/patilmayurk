@@ -1,7 +1,7 @@
 Hi there 👋! I'm Mayur 🙋‍♂️
 
 
-🎍 Welcome to my hub 👨‍💻
+🎍 Welcome to my hub 👨‍💻/
 👦 18-year-old Web Developer Expert
 👨‍💻 #SelfTaught Developer.
 🌐 Web developer.
